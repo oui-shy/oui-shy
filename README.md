@@ -1,5 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.dribbble.com/users/1371241/screenshots/6829039/07-wave.gif))]
-
 <h1 align="center">Hi 👋, I'm Momotaz Rahman Ouishy</h1>
 <h3 align="center">A passionate developer from Bangladesh 🇧🇩 | Hardworking and smart-working individual 💼</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
