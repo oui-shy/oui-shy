@@ -2,7 +2,10 @@
 <h3 align="center">A passionate developer from Bangladesh 🇧🇩 | Hardworking and smart-working individual 💼</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oui-shy&label=Profile%20views&color=0e75b6&style=flat" alt="oui-shy" /> </p>
+
+- 🔭 I’m currently working on **Tomato-Leaf-Disease-Identification-Implementation**
 
 - 💬 Ask me about **Software Quality Assurance, Business Intelligence, Artificial intelligence, Data Analysis**
 
@@ -17,6 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/momotaz-rahman-ouishy-85814626b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/momotaz-rahman-ouishy-85814626b/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mro.sobra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mro.sobra" height="30" width="40" /></a>
 <a href="https://instagram.com/oui_shee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oui_shee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@ouishi6176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ouishi6176" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
